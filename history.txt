@@ -1,0 +1,59 @@
+    1  history
+    2  pwd
+    3  git clone git@github.com:Dmitriy-Klv/git-workshop.git
+    4  git commit -m "initial commit"
+    5  ls -al
+    6  cd git-workshop/
+    7  git init
+    8  git commit -m "initial commit"
+    9  git push origin main
+   10  git checkout -b main
+   11* 
+   12  git status 
+   13  git add.
+   14  git add .
+   15  git add .
+   16  git commit -m "initial commit"
+   17  git push origin main
+   18  git push -u origin main
+   19  touch .gitignore
+   20  ls -all
+   21  git add .
+   22  git commin -m "add .gitignore"
+   23  git push -u origin main
+   24  git push origin main
+   25  git status 
+   26  git push -u origin main
+   27  git add .
+   28  git push -u origin main
+   29  git status 
+   30  git add .gitignore 
+   31  git push -u origin main
+   32  git commit -m "add .gitignore"
+   33  git push -u origin main
+   34  git rebase
+   35  git rebase main
+   36  git checkout -b features
+   37  vi .gitignore 
+   38  touch README.md
+   39  git status 
+   40  git add .
+   41  git commit -m "modified .gitignore add README.md"
+   42  git push -u origin feature
+   43  git push -u origin feature
+   44  git commit -m "modified .gitignore add README.md"
+   45  git push -u origin feature
+   46  git push -u origin features
+   47  git commit --amend
+   48  clear
+   49  git checkout main
+   50  git merge
+   51  git merge features
+   52  git push origin main
+   53  history
+   54  ls -al
+   55  git status 
+   56  git status
+   57  git log
+   58  git log --oneline
+   59  history >history.txt
